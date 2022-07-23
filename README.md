@@ -1,1 +1,2 @@
-# PRO-C88-SPECTAGRAM-STAGE---8
+# spectagram-stage-8
+project solution for c88
